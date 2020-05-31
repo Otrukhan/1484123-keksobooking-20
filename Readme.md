@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Oksana Trukhan](https://up.htmlacademy.ru/javascript/20/user/1484123).
-* Наставник: Андрей Рыжаков.
+* Наставник: [Андрей 😸 Рыжаков](https://htmlacademy.ru/profile/id201015).
 
 ---
 
